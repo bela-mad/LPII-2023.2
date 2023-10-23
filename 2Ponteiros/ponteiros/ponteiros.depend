@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698017650 source:c:\users\user\documents\lpii-2023.2\2ponteiros\ponteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+
